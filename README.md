@@ -1,1 +1,1 @@
-# simpleJsCalc
+# https://makxemel.github.io/simpleJsCalc/
